@@ -23,7 +23,7 @@ USB Mode 			CDC and JTAG
 Programmer 			Esptool
 */
 // T3S3 with sx1262
-#define BRD_sx1262_radio 1
+#define BRD_sx1278_radio 1
 #define RADIO_SCLK_PIN              5
 #define RADIO_MISO_PIN              3
 #define RADIO_MOSI_PIN              6
